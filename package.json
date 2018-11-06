@@ -1,0 +1,10 @@
+{
+  "name": "Document Handler",
+  "version": "0.2.2",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "plugman": "^2.0.0"
+  }
+}
